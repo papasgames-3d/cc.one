@@ -1,0 +1,40 @@
+# Cookie Clicker robots.txt
+User-agent: *
+Allow: /
+Allow: /img/
+Allow: /snd/
+Disallow: /ajax.js
+Disallow: /base64.js
+Disallow: /showads.js
+
+# Sitemap
+Sitemap: https://cookie-cliker.one/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Additional rules for specific bots
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yandexbot
+Allow: /
+Crawl-delay: 2
+
+# Allow all web crawlers 
+User-agent: *
+Disallow:
+
+# Disallow specific folders that don't need to be indexed
+User-agent: *
+Disallow: /snd/
+Disallow: /img/minified/
+
+# Allow Google Image to access image files
+User-agent: Googlebot-Image
+Allow: /img/ 
