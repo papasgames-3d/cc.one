@@ -6,32 +6,32 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-        <loc>https://cookie-cliker.one/</loc>
+        <loc>https://cookie-clicker.one/</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
         <image:image>
-            <image:loc>https://cookie-cliker.one/img/favicon.ico</image:loc>
+            <image:loc>https://cookie-clicker.one/img/favicon.ico</image:loc>
             <image:title>Cookie Clicker Game Icon</image:title>
         </image:image>
     </url>
 
     <url>
-        <loc>https://cookie-cliker.one/minigameGarden.js</loc>
+        <loc>https://cookie-clicker.one/minigameGarden.js</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://cookie-cliker.one/minigameGrimoire.js</loc>
+        <loc>https://cookie-clicker.one/minigameGrimoire.js</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://cookie-cliker.one/minigamePantheon.js</loc>
+        <loc>https://cookie-clicker.one/minigamePantheon.js</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>

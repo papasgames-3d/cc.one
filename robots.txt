@@ -8,7 +8,7 @@ Disallow: /base64.js
 Disallow: /showads.js
 
 # Sitemap
-Sitemap: https://cookie-cliker.one/sitemap.xml
+Sitemap: https://cookie-clicker.one/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
